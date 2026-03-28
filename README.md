@@ -57,7 +57,3 @@ data analytics skills.
 ## Tools Used
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-## Author
-**[Your Name]**  
-Aspiring Data Analyst  
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
